@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #7c7c7c;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    margin: 0;
+}
+
+li {
+    color: #7c7c7c;
+    font-size: 16px;
+    font-weight: 300;
+    height: 19px;
+    line-height: 1.4;
+    list-style: none;
+}
+
+.weather-app {
+    border: 1px solid #dfdfdf;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 10px;
+}
+
+.temp {
+    color: rgb(33, 33, 33);
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.weather-icon {
+    height: 72px;
+}
+
+.units {
+    position: relative;
+    top: -35px;
+}
+
+.form-group {
+    display: block;
+    text-align: left;
+    margin: 0;
+}
+
+.card {
+    color: #7c7c7c;
+    width: 110px;
+}
+
+.card-title {
+    color: #7c7c7c;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    margin: 0;
+}
+
+.card-text {
+    color: #7c7c7c;
+    font-size: 16px;
+    font-weight: 300;
+    height: 19px;
+    line-height: 1.4;
+    list-style: none;
+    margin: 0;
+}
+
+.search-form {
+    margin-bottom: 15px;
+}
+
+.btn {
+    width: 142px;
+}
